@@ -50,3 +50,9 @@ Deviation of 463-day S2F price:   32.47 %
 ```
 
 </> with :heart:   and available on :octocat:. PRs welcome.
+
+
+### Reference
+- https://pythoninoffice.com/predicting-bitcoin-price-stock-to-flow-python/
+- https://medium.datadriveninvestor.com/stock-to-flow-summarized-the-code-a-brief-outline-and-its-limitations-42a524163dde
+- https://medium.com/quantodian-publications/modeling-bitcoins-price-using-a-decomposition-of-stock-to-flow-1f84e30ecd8f
